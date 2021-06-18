@@ -1,0 +1,9 @@
+numpy
+pandas==0.24.2
+markovify
+argparse
+lxml
+html5lib
+bs4
+requests
+tqdm
